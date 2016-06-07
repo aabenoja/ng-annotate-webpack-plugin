@@ -1,5 +1,5 @@
 {
-  "name": "ng-annotate-webpack-plugin",
+  "name": "@aabenoja/ng-annotate-webpack-plugin",
   "version": "0.1.2",
   "description": "webpack plugin that runs ng-annotate on your bundles",
   "main": "index.js",
